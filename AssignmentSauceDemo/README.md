@@ -62,7 +62,7 @@ Cucumber test report will be available after the test execution. The report can 
 
 ### Feedback: 🙂 ###
 ``` bash
-- If you have any feedback, please reach out to me --> muhammedzahidakcal@gmail.com 
+- If you have any feedback, please reach out to me --> muratdlgr@gmail.com 
 ```
 
 
