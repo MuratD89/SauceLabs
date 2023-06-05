@@ -1,4 +1,4 @@
-#### Software  Tester Assignment: Hi! I'm Mami! I am a QA Automation Test Engineer👋 ####
+#### Software  Tester Assignment: Hi! I'm Murat! I am a QA Automation Test Engineer👋 ####
 
 #### Setting up the project requirements: ####
 ``` bash
